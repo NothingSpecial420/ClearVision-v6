@@ -54,7 +54,7 @@
   --background-blur: 0px; /* app background blur [default: 0px] */
 
   /* HOME BUTTON ICON */
-  --home-icon: url(https://icon2.cleanpng.com/20180624/ece/kisspng-discord-computer-icons-logo-user-internet-bot-discord-icon-5b30589702b188.065493111529895063011.jpg)  --home-position: center; /* home button icon position [default: center] */
+  --home-icon: url(https://img.icons8.com/?size=512&id=61604&format=png);  --home-position: center; /* home button icon position [default: center] */
   --home-size: 40px; /* home button icon size [default: 40px] */
 
   /* CHANNEL COLORS */
